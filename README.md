@@ -9,7 +9,8 @@ Sample Request:  https://api.nytimes.com/svc/mostpopular/v2/mostviewed/all-secti
 You can read documentation of API from following link: <br>
 https://developer.nytimes.com/docs/most-popular-product/1/overview<br>
 Example of a response: <br>
- 
+<img width="1072" alt="Screenshot 2021-03-10 at 2 24 38 PM" src="https://user-images.githubusercontent.com/3072594/110609254-dc955980-81ae-11eb-9f58-c5d99b55621a.png">
+
 Fill the list items with some useful information provided by the JSON response. You can create custom list items to display information.<br>
 Make the app look neat and structure the code appropriately. <br>
 Hint: You are encouraged to use libraries if you consider them useful. Please document the sources of code you did not write yourself (if they are not listed in the gradle dependencies). <br>
