@@ -13,7 +13,7 @@ Example of a response: <br>
 Fill the list items with some useful information provided by the JSON response. You can create custom list items to display information.<br>
 Make the app look neat and structure the code appropriately. <br>
 Hint: You are encouraged to use libraries if you consider them useful. Please document the sources of code you did not write yourself (if they are not listed in the gradle dependencies). <br>
-## Task 2: News Detail 
+## Task 2: Detail Screen
 Implement a Activity/Fragment that will display detail of selected news from news list. <br>
 Use may use any design to display news image, title, its details (or any information that is useful for detail page). <br>
 ## Additional requirements:<br> 
